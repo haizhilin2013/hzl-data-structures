@@ -1,3 +1,5 @@
+//author: HARESH SINGH. user: hs115488
+
 var queue = [];
 
 function push(){
